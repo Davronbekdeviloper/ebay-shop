@@ -1,0 +1,10 @@
+.flex{
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+}
+
+.text{
+    width: 0%;
+    display: inline;
+}
